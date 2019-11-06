@@ -7,7 +7,7 @@ def speak_to_grandma(phrase)
     puts "NO, NOT SINCE 1938!"
   end
 end
-speak_to_grandma(phrase)
+speak_to_grandma
 
 
 
